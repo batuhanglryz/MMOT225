@@ -1,2 +1,3 @@
 # MMOT225
-Bulut Bilişim 
+DERS : Bulut Bilişim 
+19MY03033  Batuhan Güleryüz      BİLGİSAYAR PROGRAMCILIĞI
