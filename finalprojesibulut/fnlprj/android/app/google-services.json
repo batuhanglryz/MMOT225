@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973047491188",
+    "project_id": "fnlprj",
+    "storage_bucket": "fnlprj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973047491188:android:d6e14a3cdedc504ed23f21",
+        "android_client_info": {
+          "package_name": "com.fnlprj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973047491188-qlmn74e4tcpm3ribiv7eti242p02pjd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQjFL2NXKwmJyCz7fvQED-24Vkwb0Lse8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973047491188-qlmn74e4tcpm3ribiv7eti242p02pjd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
